@@ -197,10 +197,7 @@ public class NextDate {
 		int month1, day1, year1;
 
 		
-		q =	new NextDate(
-				month1=11,
-				day1=18,
-				year1=2018);
+		q =	new NextDate(month1=11, day1=18, year1=2018);
 		
 
 		System.out.println("Type: " + q.run( month1, day1, year1));
@@ -208,8 +205,4 @@ public class NextDate {
 	}
 
 
-}
-
- NextDate {
-    
 }
